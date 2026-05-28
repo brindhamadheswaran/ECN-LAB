@@ -24,16 +24,9 @@
 
 **CIRCUIT DIAGRAM:**
 
+<img width="921" height="1471" alt="WhatsApp Image 2026-05-28 at 9 09 46 PM" src="https://github.com/user-attachments/assets/158bb2f7-de65-4218-80f7-202929412b46" />
 
-
-
-
-
-
-
-
-
-
+<img width="795" height="1311" alt="WhatsApp Image 2026-05-28 at 8 44 19 PM" src="https://github.com/user-attachments/assets/fec33524-e4cf-4ba0-848f-d58249bb8250" />
 
 **PROCEDURE:**
 
